@@ -102,7 +102,10 @@ p {
     font-display: 75%;
   }
   h2 {
-    font-size: 50%;
+    font-size: 70%;
+  }
+  h1 {
+    font-size: 70%;
   }
 }
 .social-links {
