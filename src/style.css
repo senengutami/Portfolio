@@ -99,6 +99,7 @@ p {
 @media screen and (max-width: 569px) {
   .inside-hero {
     margin-top: -260px;
+    font-display: 75%;
   }
 }
 .social-links {
