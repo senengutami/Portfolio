@@ -98,7 +98,7 @@ p {
 }
 @media screen and (max-width: 569px) {
   .inside-hero {
-    margin-top: -240px;
+    margin-top: -260px;
     font-size: 60%;
   }
 }
