@@ -97,8 +97,8 @@ p {
   height: auto;
 }
 @media screen and (min-width: 569px) {
-  .hero {
-    margin-top: -20px;
+  .inside-hero {
+    margin-top: -70px;
   }
 }
 .social-links {
