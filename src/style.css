@@ -90,22 +90,17 @@ p {
   text-decoration: underline;
 }
 .hero {
-  /* background-image: url("https://img.freepik.com/free-vector/watercolor-stains-abstract-background_23-2149107181.jpg"); */
   background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
   padding: 255px 0px;
   background-size: cover;
   max-width: 100%;
   height: auto;
 }
-/* .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #212529;
-  height: 60px;
-} */
-
+@media screen and (min-width: 569px) {
+  .hero {
+    margin-top: -20px;
+  }
+}
 .social-links {
   margin: 0;
   padding: 0;
@@ -274,9 +269,6 @@ hr {
   }
 }
 
-/* body {
-  margin: 0;
-} */
 .container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
