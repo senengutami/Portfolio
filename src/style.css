@@ -98,10 +98,10 @@ p {
 }
 @media screen and (max-width: 569px) {
   .inside-hero {
-    margin-top: -280px;
+    margin-top: -260px;
   }
   h1 {
-    font-size: small;
+    font-size: 200px;
   }
 }
 .social-links {
