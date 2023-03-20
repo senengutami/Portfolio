@@ -100,7 +100,7 @@ p {
   .inside-hero {
     margin-top: -260px;
     font-display: 75%;
-    padding-bottom: -30px !important;
+    padding-bottom: 30px !important;
   }
 }
 .social-links {
