@@ -101,7 +101,7 @@ p {
     margin-top: -260px;
   }
   h1 {
-    font-size: larger;
+    font-size: inherit;
   }
 }
 .social-links {
